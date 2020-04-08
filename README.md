@@ -9,6 +9,9 @@
 - MySQL Password works = MD5 secure hash!
 - you can make hash from here (MD5): https://www.md5hashgenerator.com/ 
 
+#Website
+- https://evilhax.xyz
+
 #Database Functions:
 - user_id = 1 - 9999
 - user_username = username
